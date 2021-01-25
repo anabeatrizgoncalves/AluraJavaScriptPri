@@ -1,1 +1,1 @@
-# AluraJavaScriptPri
+# JavaScript
